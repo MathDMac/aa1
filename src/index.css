@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "tailwindcss-animated";
+
+*{
+    font-family: 'Prompt', sans-serif;
+}
